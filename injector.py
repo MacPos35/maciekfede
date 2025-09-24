@@ -1,7 +1,4 @@
-from rocketcea.cea_obj import CEA_Obj
 import numpy as np
-
-C = CEA_Obj( oxName='LOX', fuelName='METHANOL')
 
 m_dot_fuel = 6
 m_dot_oxidiser = 9
